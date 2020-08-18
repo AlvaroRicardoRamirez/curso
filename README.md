@@ -1,1 +1,1 @@
-# proecto de pruebas de git
+# proyecto de pruebas de git
